@@ -120,3 +120,7 @@ Each node storing a copy of data - replica. Need them to be all in sync.
   - An operation `A` happens before operation `B` if `B` knows about `A`, or depends on `A`, or builds upon `A`.
   - 2 operations are concurrent if neigher happens before one another (neighter knows about each other).
   - cannot direcly rely on **time** to define concurrency bc of problems with clocks in distributed systems.
+
+### Overall:
+ - Single Leader (easiest, no conflicts)
+ - Multi-leader/Leaderless  - more robust; weaker consistency.

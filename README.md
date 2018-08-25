@@ -23,3 +23,4 @@
   - Replication: copy of same data across machines
   - Paritioning: Spliting db into smaller subsets (partitions)
 5. [Replication](./ch5.md)
+6. [Partitioning](./ch6.md)
