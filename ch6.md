@@ -1,7 +1,7 @@
 # Paritioning
 
 A Shard/region/tablet/vnode,vBucket.
-Each parition is effectively a small db of its own; although some operations may run across partitions.based p
+Each parition is effectively a small db of its own; although some operations may run across partitions.
 + main reason is for scalability.
 
 ## key-value based
