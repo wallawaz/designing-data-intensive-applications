@@ -33,15 +33,15 @@ Building Blocks include:
       - ++**load parameter**; how much do we need to ++**resources** to keep performance unchanged.
 
     - % repsonse time reporting.
-     - p95, p99, p999 percentile.
-     - SLAs(Service-Level-Agreement
-       - "Service is up if has a median response time of < 200ms and a 99th percentile under 1s".
-     - response times should be measured client-side.
+      - p95, p99, p999 percentile.
+      - SLAs(Service-Level-Agreement
+        - "Service is up if has a median response time of < 200ms and a 99th percentile under 1s".
+    - response times should be measured client-side.
     
-    - cope with load
-     - scale-up (++CPU/RAM/etc)
-     - scale-out (++machines)
-     - elastic?
+  - cope with load
+    - scale-up (++CPU/RAM/etc)
+    - scale-out (++machines)
+    - elastic?
 
 ## Maintainability
 Make system simpler to maintain.

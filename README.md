@@ -2,7 +2,7 @@
 [Martin Kleppmman](https://dataintensive.net/)
 ## Part 1 Foundations
 1. [Reliable, Scalable and Maintainable Applications](./ch1.md)
-
+2. [Data Models and Query Languages](./ch2.md)
 ## Part 2 (Distributed Data)
 ### Reasons why to distrubite onto multiple machines.
 ### Scalability
