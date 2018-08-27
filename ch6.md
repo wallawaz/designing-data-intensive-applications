@@ -44,7 +44,7 @@ Each parition is effectively a small db of its own; although some operations may
     - key-range based create their partitions automatically.
     - each partition assigned to one node. node can have multiple partitions.
     -  number of partitions adapts to total data volume.
-  - Proporation partitions to number of nodes (Casandra, Ketama).
+  - Proportion partitions to number of nodes (Casandra, Ketama).
     - fixed number of partitions; per node.
 
 ## Service Discovery
