@@ -27,3 +27,4 @@
   - Paritioning: Spliting db into smaller subsets (partitions)
 5. [Replication](./ch5.md)
 6. [Partitioning](./ch6.md)
+7. [Transactions](./ch7.md)
