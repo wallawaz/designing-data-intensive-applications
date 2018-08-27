@@ -1,4 +1,4 @@
-# Paritioning
+# Partitioning
 
 A Shard/region/tablet/vnode,vBucket.
 Each parition is effectively a small db of its own; although some operations may run across partitions.
